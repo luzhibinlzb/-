@@ -1,1 +1,1 @@
-一些galgame的chatgpt翻译补丁
+一些自己翻译的galgame chatgpt翻译补丁
