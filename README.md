@@ -1,0 +1,1 @@
+一些galgame的chatgpt翻译补丁
